@@ -3,8 +3,8 @@ JSBunDles
 
 A small collection of useful JavaScript functions in one place
 
-You are free to pix and mix and minify
-There will be a JsBunDles.min.js in the end
+You are free to pix and mix and minify,
+There will be a JsBunDles.min.js in the end.
 
 - array.JSBunDles.js contains Array prototypes
 - string.JSBunDles.js contains String prototypes
