@@ -10,7 +10,7 @@ $.fn.priceable = function(currency){
      
     this.on('focus', function(){
         var newVal = $(this).val();
-        newVal = newVal.replace(currency + ' ', '').;
+        newVal = newVal.replace(currency + ' ', '');
         $(this).val(newVal);
     });
      
